@@ -1,6 +1,6 @@
 ## Compile Instructions
 Ensure directory contains the following files:
-```bash
+```shell
 $ ~ ls -hartl
 -rw-r--r-- 1 1.4K collect.h
 -rw-r--r-- 1 1.9K stacksack.cpp
