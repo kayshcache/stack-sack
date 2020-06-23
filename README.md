@@ -12,3 +12,5 @@ Use the following command to compile and run the program:
 ```
 $ ~ g++ --std=c++17 -Wall main.cpp libGenerate.a -o SAK && ./SAK size seed
 ```
+# Learning C++ Project 2
+More information about this project to come.
