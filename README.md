@@ -9,7 +9,7 @@ $ ~ ls -hartl
 -rw-r--r-- 1 3.9K main.cpp
 ```
 Use the following command to compile and run the program:
-```
+```bash
 $ ~ g++ --std=c++17 -Wall main.cpp libGenerate.a -o SAK && ./SAK size seed
 ```
 # Learning C++ Project 2
